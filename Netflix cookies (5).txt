@@ -1,0 +1,11 @@
+secured.netflix.com	FALSE	/	TRUE	1735694527	thx_guid	d4d8c885349f453ebcef433435071764
+.netflix.com	TRUE	/	FALSE	1708556404	memclid	542de4f7-1009-451d-827a-161319cbb95e
+.netflix.com	TRUE	/	FALSE	1734368491	dsca	customer
+.netflix.com	TRUE	/	FALSE	1731344491	nfvdid	BQFmAAEBEDsnrznMJVWU4JUpVXrNjAlg7ItZnMzF65V-NzL7a_mYdOskieFvcd5p8ZcHEzxnC13geqN0lqCxBb8MH_NpoNEbFUtyqh9wCKuMtAo0n7d6WwSOkBPzFCs49pgAf-CyU69f3Pz2PmKW3_asUgFncc10
+.netflix.com	TRUE	/	TRUE	1731973533	NetflixId	ct%3DBQAOAAEBEN9-tQF2zo2VdDq-F36NYq-CMK2xCXto_AIu2KBLxIFeb_EMbpKs6Xjm8iVoZ5gwJqFDJCZqq6rvJg6g7XDmo_nR6BeW5e4-NnSYcKhznPDAVCgeUyhBpjFbs98S0bQP4BG8LNsRX4LqgoZ_C6Y6IH7RyOE7NYyOEjQ5ylgcDH6TJoi8ujCk7JPF1v8Gu03rV2Wr0itbAon7nl9akjh4pNxX8GXJ91mder7uJKf4O3b8bD7tOShkxUbfX0M5GpbvvM0kfld_rUrBM6XU2YaHwof9hMS5_RDURVcEAAyRwraKoPvYg_9p6MaKZ7A2aXnCUoAm6Q-rVTJ2wEEi4LZ0E2f2O7lymU9tNR27xYKLBSBW7ANG0mXqYTd3eByyuB0PQfkqLZK8g6dQRH4LGIlYl62fbJgkk8VLpiewuNKGXBKksMaCckyuEqBGIF4OtLOpk4KQDx8gKD_irs6sm0n4IJF9fzOJq0rIHTLifw8ZK_9EWDc0TS8s0ZESl5-h_CGdmPFcjbXa6MP8XSjJKiA15TTIVAZvFHo_D_lk8Xn6AxjjCpwIz8YIBvAJa29MQVzI3spYGvz88emWDUdr-W5AuAUwvk1T9Dc3Tc96eZFDM-MLntdg9NyZp6aJn5gvOTQMQoOKy0j43qfW0JCqszdgY-Qrl9YnPlNAHplMk0jfDR4zwysgfAA_io-_AgODDNhmjsER7_s_JDkZ0DWlSYX7ZCCI-p4CcAXV57ZzYpmqq81RvJJKE4EBlNr0-0dSaR85I6Dr%26bt%3Ddbl%26ch%3DAQEAEAABABT2dQphs1CBPHdBVV9MNNg42Ip_3hdFkZM.%26v%3D2%26mac%3DAQEAEAABABT_fKlrky14YdnBtuIQWb9888gSNDmvPP4.
+.netflix.com	TRUE	/	TRUE	1731973533	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABSWYlCNSQyJuwjCswZlD4CToUWow77aV2Q.%26dt%3D1700437510242
+.netflix.com	TRUE	/	FALSE	1708214044	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1708214044	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1708214044	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	FALSE	1731974065	OptanonConsent	isIABGlobal=false&datestamp=Sun+Nov+19+2023+20%3A54%3A25+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202301.1.0&consentId=4ec6fbf6-5a1d-4b03-874e-fd29e7e4e7e0&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&hosts=&AwaitingReconsent=false&geolocation=BR%3BSC&isGpcEnabled=0
+.netflix.com	TRUE	/	FALSE	1700455104	profilesNewSession	0
